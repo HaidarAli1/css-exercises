@@ -1,0 +1,21 @@
+/*Class Selectors*/
+.odd {
+    background-color: #eb8f8f;
+    font-family: verdna, DejaVu Sans, sans-serif;
+}
+
+.font-size {
+    font-size: 24px;
+}
+
+/*ID Selectors*/
+#blue-text {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#green-back {
+    background-color: #a0eb8d;
+    font-size: 24px;
+    font-weight: bold;
+}
